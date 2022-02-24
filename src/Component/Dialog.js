@@ -11,7 +11,7 @@ export default function Dialogs({open,setopen}){
         setopen(false);
        
       };
-
+//comment
       const useStyle=makeStyles({
         box2:{
        display:"flex",
